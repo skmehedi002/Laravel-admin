@@ -1,0 +1,14 @@
+.nav-item .bg-white  {
+    background : #3960FA !important;
+}
+.nav-item .bg-white a {
+    color: #fff !important;
+}
+
+.nav-item .bg-white a:hover {
+    color: #333 !important;
+}
+.nav-item h6 {
+    font-size: 12px !important;
+    color: #fff !important;
+}
